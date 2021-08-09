@@ -1,0 +1,15 @@
+{
+  "name": "cf-lib-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc --outDir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-html-renderer": "15.1.0",
+    "@contentful/rich-text-types": "15.1.0"
+  }
+}
